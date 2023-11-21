@@ -106,3 +106,161 @@ select{
 select:hover{
     border: 1px solid gray;
 }
+
+
+.logo a img{
+    width:500px ;
+    height: 200px;
+    margin-left: -140px;
+    padding-top: 10px;
+}
+.buton button img{
+    width: 24px;
+    height: 24px;
+    color:red;
+    margin-left: -110px;
+    margin-bottom: -15px;
+}
+.buton button h3{
+    margin-top: -10px;
+    color:white;
+}
+.buton button{
+    background-color:rgb(223, 16, 16);
+    border:none;
+    border-radius: 14px;
+    width: 150px;
+    height: 45px;
+    cursor:pointer;
+    transition: all 0.5s;
+    margin-top: 85px;
+    margin-left: -150px;
+}
+.buton button:hover{
+    background:rgb(255, 0, 0);
+}
+.section__container{
+    display:flex;
+    margin-top: -75px;
+}
+.inputs input{
+    height: 45px;
+    width: 450px;
+    margin-top: 87px;
+    transition: all 0.5s;
+    border:1px solid rgb(207, 200, 200);
+    border-radius:6px;
+    margin-left: 40px;
+    cursor: pointer;
+    padding: 10px;
+}
+.inputs input:hover{
+    background:rgb(252, 255, 255);
+    font-size: 14px;
+    border:none;
+}
+.butons button {
+    margin-top:87px;
+    width: 80px;
+    height: 45px;
+    background:rgb(223, 15, 15);
+    border:1px solid rgb(216, 213, 213);
+    border-radius:12px;
+    cursor: pointer;
+    transition: all 0.5s;
+    margin-left: -75px;
+}
+.butons button:hover{
+    background:rgb(255, 0, 0);
+}
+.one-item img {
+    margin-top: 85px;
+    margin-left: 45px;
+    cursor: pointer;
+}
+.one-item h3{
+    margin-top: 5px;
+    margin-left: 15px;
+    font-size: 15px;
+    cursor: pointer;
+    transition: all 0.5s;
+    margin-right: 0px;
+}
+.one-item h3:hover{
+    color:blue;
+    margin-right: -140px;
+}
+.two-item{
+    margin-left: 120px;
+    margin-top: -80px;
+}
+.two-item h3{
+    font-size: 15px;
+    margin-left: 10px;
+    cursor: pointer;
+    transition: all 0.5s;
+    margin-top: 5px;
+}
+.two-item h3:hover{
+    color:blue;
+}
+.two-item img{
+    margin-top: 30px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+.three-item h3{
+    margin-left: -10px;
+    font-size: 15px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin-top: 5px;
+}
+.three-item img{
+    cursor: pointer;
+}
+.three-item h3:hover{
+    color:blue;
+}
+
+.three-item{
+    margin-left: 229px;
+    margin-top: -48px;
+}
+.four-item h3{
+    font-size: 15px;
+    margin-left: -18px;
+    cursor: pointer;
+    transition: all 0.5s;
+    margin-top: 5px;
+}
+.four-item h3:hover{
+    color:blue;
+}
+.four-item img{
+    cursor: pointer;
+}
+.four-item{
+    margin-left: 310px;
+    margin-top: -50px;
+}
+.five-item h3{
+    font-size: 15px;
+    margin-top: 5px;
+    margin-left: -5px;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+.five-item h3:hover{
+    color:blue;
+}
+.five-item{
+    margin-left: 395px;
+    margin-top: -50px;
+}
+.five-item img{
+    cursor: pointer;
+}
+.info__container {
+    margin-left: 10px;
+}
