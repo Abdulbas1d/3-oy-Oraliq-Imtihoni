@@ -107,24 +107,24 @@ select:hover{
     border: 1px solid gray;
 }
 
-.logo a img{
+.logo2 a img{
     width:500px ;
     height: 200px;
     margin-left: -140px;
     padding-top: 10px;
 }
-.buton button img{
+.button button img{
     width: 24px;
     height: 24px;
     color:red;
     margin-left: -110px;
     margin-bottom: -15px;
 }
-.buton button h3{
+.button button h3{
     margin-top: -10px;
     color:white;
 }
-.buton button{
+.button button{
     background-color:rgb(223, 16, 16);
     border:none;
     border-radius: 14px;
@@ -135,14 +135,14 @@ select:hover{
     margin-top: 85px;
     margin-left: -150px;
 }
-.buton button:hover{
+.button button:hover{
     background:rgb(255, 0, 0);
 }
-.section__container{
+.header_container{
     display:flex;
     margin-top: -75px;
 }
-.inputs input{
+.search input{
     height: 45px;
     width: 450px;
     margin-top: 87px;
@@ -153,12 +153,12 @@ select:hover{
     cursor: pointer;
     padding: 10px;
 }
-.inputs input:hover{
+.search input:hover{
     background:rgb(252, 255, 255);
     font-size: 14px;
     border:none;
 }
-.butons button {
+.buton2 button {
     margin-top:87px;
     width: 80px;
     height: 45px;
@@ -169,15 +169,15 @@ select:hover{
     transition: all 0.5s;
     margin-left: -75px;
 }
-.butons button:hover{
+.button2 button:hover{
     background:rgb(255, 0, 0);
 }
-.one-item img {
+.one-block img {
     margin-top: 85px;
     margin-left: 45px;
     cursor: pointer;
 }
-.one-item h3{
+.one-block h3{
     margin-top: 5px;
     margin-left: 15px;
     font-size: 15px;
@@ -185,89 +185,89 @@ select:hover{
     transition: all 0.5s;
     margin-right: 0px;
 }
-.one-item h3:hover{
+.one-block h3:hover{
     color:blue;
     margin-right: -140px;
 }
-.two-item{
+.two-block{
     margin-left: 120px;
     margin-top: -80px;
 }
-.two-item h3{
+.two-block h3{
     font-size: 15px;
     margin-left: 10px;
     cursor: pointer;
     transition: all 0.5s;
     margin-top: 5px;
 }
-.two-item h3:hover{
+.two-block h3:hover{
     color:blue;
 }
-.two-item img{
+.two-block img{
     margin-top: 30px;
     margin-left: 30px;
     cursor: pointer;
 }
-.three-item h3{
+.three-block h3{
     margin-left: -10px;
     font-size: 15px;
     transition: all 0.5s;
     cursor: pointer;
     margin-top: 5px;
 }
-.three-item img{
+.three-block img{
     cursor: pointer;
 }
-.three-item h3:hover{
+.three-block h3:hover{
     color:blue;
 }
 
-.three-item{
+.three-block{
     margin-left: 229px;
     margin-top: -48px;
 }
-.four-item h3{
+.four-block h3{
     font-size: 15px;
     margin-left: -18px;
     cursor: pointer;
     transition: all 0.5s;
     margin-top: 5px;
 }
-.four-item h3:hover{
+.four-block h3:hover{
     color:blue;
 }
-.four-item img{
+.four-block img{
     cursor: pointer;
 }
-.four-item{
+.four-block{
     margin-left: 310px;
     margin-top: -50px;
 }
-.five-item h3{
+.five-block h3{
     font-size: 15px;
     margin-top: 5px;
     margin-left: -5px;
     cursor: pointer;
     transition: all 0.5s;
 }
-.five-item h3:hover{
+.five-block h3:hover{
     color:blue;
 }
-.five-item{
+.five-block{
     margin-left: 395px;
     margin-top: -50px;
 }
-.five-item img{
+.five-block img{
     cursor: pointer;
 }
-.info__container {
+.block__container {
     margin-left: 10px;
 }
 .two-hero__container{
     margin-top: 160px;
     
 }
-.buton3 button{
+.button3 button{
     margin-left: -1250px;
     cursor: pointer;
     width: 90px;
@@ -279,7 +279,7 @@ select:hover{
     color:white;
     transition: all 0.5s;
 }
-.uls2 ul {
+.lists ul {
     margin-left: -1130px;
     margin-top: -20px;
     display:flex;
@@ -287,10 +287,10 @@ select:hover{
     cursor: pointer;
     transition: all 0.5s;
 }
-.uls2 ul li{
+.lists ul li{
     transition: all 0.5s;
 }
-.uls2 ul li:hover{
+.lists ul li:hover{
     color:blue;
 }
 .footer-one__container{
