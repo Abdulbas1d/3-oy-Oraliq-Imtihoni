@@ -263,7 +263,7 @@ select:hover{
 .block__container {
     margin-left: 10px;
 }
-.two-hero__container{
+.two__container{
     margin-top: 160px;
     
 }
@@ -278,6 +278,7 @@ select:hover{
     background-repeat: no-repeat;
     color:white;
     transition: all 0.5s;
+    background-color: green;
 }
 .lists ul {
     margin-left: -1130px;
